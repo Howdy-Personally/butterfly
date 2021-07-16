@@ -1,0 +1,7 @@
+./images/val/060.png
+./images/val/061.png
+./images/val/063.png
+./images/val/064.png
+./images/val/067.png
+./images/val/074.png
+./images/val/075.png
